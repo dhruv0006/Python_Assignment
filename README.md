@@ -1,2 +1,2 @@
-# Python_Assignment
+# Python_Assignments
 Inueron Python Assignments
